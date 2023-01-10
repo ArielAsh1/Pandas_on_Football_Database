@@ -1,4 +1,3 @@
-# Ariel Ashkenazy 208465096
 
 import pandas as pd
 
@@ -91,9 +90,9 @@ class myData:
 
 # if __name__ == '__main__':
 #     md = myData("players_22.csv")
-    # print("1:", "\n", md.num_players_height(180, 190), "\n")
-    # print("2:", "\n", md.df_birthyear(1980), "\n")
-    # print("3:", "\n", md.list_sorted("weight_kg", "movement_sprint_speed", 10), "\n")
-    # print("4:", "\n", md.tuples_players_by_year(1980, 1990), "\n")
-    # print("5:", "\n", md.mean_std("wage_eur", "Adriano"), "\n")
-    # print("6:", "\n", md.max_players("nationality_name"), "\n")
+    print("1:", "\n", md.num_players_height(180, 190), "\n")
+    print("2:", "\n", md.df_birthyear(1980), "\n")
+    print("3:", "\n", md.list_sorted("weight_kg", "movement_sprint_speed", 10), "\n")
+    print("4:", "\n", md.tuples_players_by_year(1980, 1990), "\n")
+    print("5:", "\n", md.mean_std("wage_eur", "Adriano"), "\n")
+    print("6:", "\n", md.max_players("nationality_name"), "\n")
