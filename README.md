@@ -1,1 +1,1 @@
-# random experimenting with Pandas on football csv
+# querying a football database using Pandas
