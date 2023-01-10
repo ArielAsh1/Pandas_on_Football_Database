@@ -1,3 +1,4 @@
+# The program does random queries using Pandas on the database
 
 import pandas as pd
 
